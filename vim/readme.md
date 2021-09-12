@@ -10,7 +10,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 * Auto Pairs -> https://vimawesome.com/plugin/auto-pairs  
 * youcompleteme -> https://vimawesome.com/plugin/youcompleteme  
 
-команды для vim  
+#### команды для vim:  
 `PlugInstall`  
 `PlugStatus`  
 
