@@ -10,9 +10,5 @@ https://github.com/preservim/nerdtree
 https://github.com/ycm-core/YouCompleteMe  
 https://github.com/jiangmiao/auto-pairs  
 
-```
-PlugInstall
-```
-```
-PlugStatus
-```
+`PlugInstall`
+`PlugStatus`
