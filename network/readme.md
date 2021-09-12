@@ -19,3 +19,4 @@ sudo netplan apply
 sudo netplan try    
 ```
 ### изменение порта SSH  
+👍
