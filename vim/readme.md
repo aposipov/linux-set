@@ -1,4 +1,4 @@
-## Пробная конфигурация Vim  
+## Моя конфигурация Vim  
 Для установки плагинов, нужно использовать vim-plug -> https://github.com/junegunn/vim-plug  
 команда для установки на linux
 ```
@@ -10,9 +10,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 * Auto Pairs -> https://vimawesome.com/plugin/auto-pairs  
 * youcompleteme -> https://vimawesome.com/plugin/youcompleteme  
 
-https://github.com/preservim/nerdtree  
-https://github.com/ycm-core/YouCompleteMe  
-https://github.com/jiangmiao/auto-pairs  
-
 `PlugInstall`  
-`PlugStatus`
+`PlugStatus`  
+
+больше плагинов здесь -> https://vimawesome.com/
