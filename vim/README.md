@@ -5,6 +5,8 @@
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
+чтобы установить плагины нужно отредактировать `.vimrc`  
+
 ### мои плагины:  
 * The NERD Tree -> https://vimawesome.com/plugin/nerdtree-red  
 * Auto Pairs -> https://vimawesome.com/plugin/auto-pairs  
