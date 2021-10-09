@@ -7,6 +7,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'ycm-core/YouCompleteMe', { 'do': './install.py' }
 Plug 'jiangmiao/auto-pairs'
+Plug 'pbondoer/vim-42header'
 call plug#end()
 "==================
 "PLUGIN settings
