@@ -13,7 +13,6 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 * youcompleteme -> https://vimawesome.com/plugin/youcompleteme  
 * pbondoer -> https://github.com/pbondoer/vim-42header  
 #### команды для vim:  
-`PlugInstall`  
-`PlugStatus`  
+`PlugInstall`, `PlugStatus`, `PlugUpdate`, `PlugUpgrade`, `source .vimrc`  
 
 больше плагинов здесь -> https://vimawesome.com/
