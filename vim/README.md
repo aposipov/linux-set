@@ -11,7 +11,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 * The NERD Tree -> https://vimawesome.com/plugin/nerdtree-red  
 * Auto Pairs -> https://vimawesome.com/plugin/auto-pairs  
 * youcompleteme -> https://vimawesome.com/plugin/youcompleteme  
-
+* pbondoer -> https://github.com/pbondoer/vim-42header  
 #### команды для vim:  
 `PlugInstall`  
 `PlugStatus`  
