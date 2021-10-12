@@ -7,6 +7,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'ycm-core/YouCompleteMe', { 'do': './install.py' }
 Plug 'jiangmiao/auto-pairs'
+Plug 'pbondoer/vim-42header'
 call plug#end()
 "==================
 "PLUGIN settings
@@ -16,6 +17,7 @@ let NERDTreeShowHidden=0	"показывать скрытые файлы в де
 "SETTINGS
 "==================
 set number
+set tabstop=4
 colorscheme ron
 "set colorcolumn=80	"включаем отступ 80 столбцов    
 "highlight ColorColumn ctermbg=gray "цвет линии отступа
