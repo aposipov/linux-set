@@ -4,10 +4,10 @@ network:
     enp6s1:
       dhcp4: no
       dhcp6: no
-      addresses: [192.168.8.96/24, ]
-      gateway4: 192.168.8.8
+      addresses: [192.168.0.96/24, ]
+      gateway4: 192.168.0.0
       nameservers:
-        addresses: [192.168.8.8, ]
+        addresses: [192.168.0.0, ]
   version: 2
 
   #renderer: NetworkManager
