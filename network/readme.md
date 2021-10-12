@@ -41,3 +41,5 @@ sudo netstat -tnlp | grep :5522
 ```
 ssh -p 5522 username@remote_host_or_ip
 ```
+Если у вас есть ошибка `wired unmanaged` используйте конфигурацию в файле `config_hyperv.yaml`  
+У меня эта ошибка была при настройке виртуальной машины в убунте.
