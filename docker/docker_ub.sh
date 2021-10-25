@@ -2,9 +2,8 @@
 
 apt update; apt upgrade -y
 
-apt install apt-transport-https ca-certificates curl gnupg lsb-release
+apt install apt-transport-https ca-certificates curl gnupg lsb-release -y
 
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 #если все норм команда вернет ок
 
 #add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/debian $(lsb_release -cs) stable"
