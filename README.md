@@ -15,3 +15,6 @@ sudo dpkg-reconfigure lightdm
 ```
 sudo update-alternatives --config x-session-manager
 ```
+### kde
+sudo apt install kde-plasma-desktop  
+sudo apt install kde-full  
