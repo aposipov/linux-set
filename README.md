@@ -27,7 +27,8 @@ wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key a
 sudo sh -c 'echo "deb http://download.virtualbox.org/virtualbox/debian $(lsb_release -sc) contrib" >> /etc/apt/sources.list.d/virtualbox.list'
 ```
 sudo apt update  
-sudo apt purge virtualbox*    
+sudo apt purge virtualbox*  
+virtualbox-qt тоже можно удалить перед установкой
 если будет возникать ошибка по ядру удалите дкмс и запустите конфиг  
 sudo apt remove virtualbox-dkms  
 sudo /sbin/vboxconfig  
