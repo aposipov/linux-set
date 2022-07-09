@@ -32,3 +32,5 @@ virtualbox-qt тоже можно удалить перед установкой
 если будет возникать ошибка по ядру удалите дкмс и запустите конфиг  
 sudo apt remove virtualbox-dkms  
 sudo /sbin/vboxconfig  
+
+fstab для монтирования жестких дисков  
