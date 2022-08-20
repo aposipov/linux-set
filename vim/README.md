@@ -12,7 +12,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 * Auto Pairs -> https://vimawesome.com/plugin/auto-pairs  
 * youcompleteme -> https://vimawesome.com/plugin/youcompleteme  
 * vim-42header -> https://github.com/pbondoer/vim-42header  
-* syntastic ->
+* syntastic -> https://github.com/vim-syntastic/syntastic  
 изменил переменные `$USER` `$MAIL` на `$USER21` `$MAIL21` и присвоил нужные значения в `.bashrc`  
 кнопка вставить `F2`  
 #### команды для vim:  
