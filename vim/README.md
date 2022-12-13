@@ -18,4 +18,5 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 #### команды для vim:  
 `PlugInstall`, `PlugStatus`, `PlugUpdate`, `PlugUpgrade`, `source .vimrc`  
 
-больше плагинов здесь -> https://vimawesome.com/
+больше плагинов здесь -> https://vimawesome.com/  
+`source` вычитать конфигурацию .vimrc
