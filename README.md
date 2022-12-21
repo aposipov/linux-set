@@ -34,3 +34,5 @@ sudo apt remove virtualbox-dkms
 sudo /sbin/vboxconfig  
 
 fstab для монтирования жестких дисков  
+  
+xrandr multi monitor manage
