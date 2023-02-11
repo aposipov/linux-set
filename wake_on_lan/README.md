@@ -14,4 +14,9 @@ https://help.ubuntu.ru/wiki/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D1
 http://integrator.adior.ru/index.php/linux-command/481-init-d  
 https://qastack.ru/ubuntu/5039/what-is-the-difference-between-etc-init-and-etc-init-d  
 
-https://losst.ru/kak-dobavit-skript-v-avtozagruzku-ubuntu  --auto run  
+https://losst.ru/kak-dobavit-skript-v-avtozagruzku-ubuntu  
+--auto run  
+for Fedora
+```
+ether-wake <MAC-Address-Here>
+```
